@@ -1,0 +1,20 @@
+{
+  "title": "Mary Had a Little Lamb",
+  "time_signature": [4, 4],
+  "measures": [
+    {
+      "notes": [
+        { "pitch": "E4", "duration": 1 },
+        { "pitch": "D4", "duration": 1 },
+        { "pitch": "C4", "duration": 2 }
+      ]
+    },
+    {
+      "notes": [
+        { "pitch": "D4", "duration": 1 },
+        { "pitch": "E4", "duration": 1 },
+        { "pitch": "E4", "duration": 2 }
+      ]
+    }
+  ]
+}

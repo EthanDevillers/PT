@@ -1,0 +1,159 @@
+{
+  "title": "TEST COMPLET DES NOTES",
+  "time_signature": "4/4",
+  "measures": [
+        {
+            "number": 1,
+            "events": [
+                {
+                    "type": "note",
+                    "pitch": "E-4",
+                    "duration": 8.0,
+                    "offset": 0.0,
+                    "staff": 1
+                },
+                {
+                    "type": "note",
+                    "pitch": "G4",
+                    "duration": 8.0,
+                    "offset": 0.0,
+                    "staff": 1
+                },
+                {
+                    "type": "note",
+                    "pitch": "C5",
+                    "duration": 8.0,
+                    "offset": 8.0,
+                    "staff": 1
+                },
+                {
+                    "type": "note",
+                    "pitch": "E3",
+                    "duration": 16.0,
+                    "offset": 0.0,
+                    "staff": 2
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "events": [
+                {
+                    "type": "note",
+                    "pitch": "E5",
+                    "duration": 2.0,
+                    "offset": 0.0,
+                    "staff": 1
+                },
+                {
+                    "type": "note",
+                    "pitch": "D#5",
+                    "duration": 2.0,
+                    "offset": 2.0,
+                    "staff": 1
+                },
+                {
+                    "type": "note",
+                    "pitch": "E5",
+                    "duration": 2.0,
+                    "offset": 4.0,
+                    "staff": 1
+                },
+                {
+                    "type": "note",
+                    "pitch": "B4",
+                    "duration": 2.0,
+                    "offset": 6.0,
+                    "staff": 1
+                },
+                {
+                    "type": "note",
+                    "pitch": "D5",
+                    "duration": 2.0,
+                    "offset": 8.0,
+                    "staff": 1
+                },
+                {
+                    "type": "note",
+                    "pitch": "C5",
+                    "duration": 2.0,
+                    "offset": 10.0,
+                    "staff": 1
+                },
+                {
+                    "type": "note",
+                    "pitch": "B4",
+                    "duration": 2.0,
+                    "offset": 12.0,
+                    "staff": 1
+                },
+                {
+                    "type": "note",
+                    "pitch": "A-4",
+                    "duration": 2.0,
+                    "offset": 14.0,
+                    "staff": 1
+                },
+                {
+                    "type": "note",
+                    "pitch": "E3",
+                    "duration": 16.0,
+                    "offset": 0.0,
+                    "staff": 2
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "events": [
+                {
+                    "type": "note",
+                    "pitch": "A4",
+                    "duration": 4.0,
+                    "offset": 0.0,
+                    "staff": 1
+                },
+                {
+                    "type": "rest",
+                    "duration": 2.0,
+                    "offset": 4.0,
+                    "staff": 1
+                },
+                {
+                    "type": "note",
+                    "pitch": "C4",
+                    "duration": 2.0,
+                    "offset": 6.0,
+                    "staff": 1
+                },
+                {
+                    "type": "note",
+                    "pitch": "E4",
+                    "duration": 2.0,
+                    "offset": 8.0,
+                    "staff": 1
+                },
+                {
+                    "type": "note",
+                    "pitch": "A4",
+                    "duration": 2.0,
+                    "offset": 10.0,
+                    "staff": 1
+                },
+                {
+                    "type": "note",
+                    "pitch": "A3",
+                    "duration": 8.0,
+                    "offset": 0.0,
+                    "staff": 2
+                },
+                {
+                    "type": "rest",
+                    "duration": 4.0,
+                    "offset": 8.0,
+                    "staff": 2
+                }
+            ]
+          }
+  ]
+}

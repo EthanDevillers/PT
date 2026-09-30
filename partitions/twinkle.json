@@ -1,0 +1,41 @@
+
+{
+  "title": "Twinkle Twinkle Little Star",
+  "time_signature": "4/4",
+  "measures": [
+    {
+      "number": 1,
+      "events": [
+        { "type": "note", "pitch": "C4", "duration": 4 },  
+        { "type": "note", "pitch": "C4", "duration": 4 },
+        { "type": "note", "pitch": "G4", "duration": 4 },
+        { "type": "note", "pitch": "G4", "duration": 4 }    
+      ]
+    },
+    {
+      "number": 2,
+      "events": [
+        { "type": "note", "pitch": "A4", "duration": 4 },
+        { "type": "note", "pitch": "A4", "duration": 4 },
+        { "type": "note", "pitch": "G4", "duration": 8 }  
+      ]
+    },
+    {
+      "number": 3,
+      "events": [
+        { "type": "note", "pitch": "F4", "duration": 4 },
+        { "type": "note", "pitch": "F4", "duration": 4 },
+        { "type": "note", "pitch": "E4", "duration": 4 },
+        { "type": "note", "pitch": "E4", "duration": 4 }
+      ]
+    },
+    {
+      "number": 4,
+      "events": [
+        { "type": "note", "pitch": "D4", "duration": 4 },
+        { "type": "note", "pitch": "D4", "duration": 4 },
+        { "type": "note", "pitch": "C4", "duration": 8 }
+      ]
+    }
+  ]
+}
